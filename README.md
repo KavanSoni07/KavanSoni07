@@ -14,9 +14,10 @@ Real-world attack techniques on Hack The Box & TryHackMe, with a focus on unders
 - Documenting Hack The Box and TryHackMe learnings
 - Focusing on methodology, enumeration, and lessons learned
 
-🔗 My Profiles  
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KavanSoni)
-- [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2002278)
+🔗 My Profiles
+- <img src="https://tryhackme.com/img/favicon.ico" width="16" /> [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)
+- <img src="https://www.hackthebox.com/images/favicon.ico" width="16" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
+
 
 🚀 **Goal**  
 Become a skilled Security Researcher and Bug Bounty Hunter.
