@@ -14,12 +14,6 @@ Real-world attack techniques on Hack The Box & TryHackMe, with a focus on unders
 📌 **Current focus**  
 Strengthening fundamentals in web application security and privilege escalation through consistent lab practice.
 
-🚀 **Goal**  
-Working towards becoming a skilled Security Researcher and Bug Bounty Hunter.
-
-🛠️ **Tools I use**  
-A range of offensive security tools for enumeration, exploitation, and post-exploitation, including Nmap, ffuf, Gobuster, Feroxbuster, Metasploit, LinPEAS, WinPEAS, and the Impacket toolkit.
-
 🤝 **Open to collaboration**  
 CTFs, learning groups, and open-source security projects.
 
