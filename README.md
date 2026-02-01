@@ -10,15 +10,13 @@ Offensive Security, Bug Bounty hunting, and Web Application Penetration Testing 
 🌱 **I’m currently learning**  
 Real-world attack techniques on Hack The Box & TryHackMe, with a focus on understanding vulnerabilities and attack surfaces.
 
-🗝️ **Mindset**  
-Enumeration is the key
+## 📝 Write-ups & Notes
+- Documenting Hack The Box and TryHackMe learnings
+- Focusing on methodology, enumeration, and lessons learned
 
-📝 **Learning practice**  
-Writing machine write-ups to document findings and reinforce understanding.
-
-🔗 **My Profiles**  
-- 🧠 TryHackMe: https://tryhackme.com/p/KavanSoni  
-- 🧪 Hack The Box: https://app.hackthebox.com/public/users/2002278  
+🔗 My Profiles  
+- 🧠 [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)  
+- 🧪 [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
 
 🚀 **Goal**  
 Become a skilled Security Researcher and Bug Bounty Hunter.
