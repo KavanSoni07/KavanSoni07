@@ -11,9 +11,6 @@ Penetration Testing, Red Teaming, and Web Application Security.
 🌱 **I’m currently learning**  
 Real-world attack techniques on Hack The Box & TryHackMe, with a focus on understanding vulnerabilities and attack surfaces.
 
-📌 **Current focus**  
-Strengthening fundamentals in web application security and privilege escalation through consistent lab practice.
-
 🤝 **Open to collaboration**  
 CTFs, learning groups, and open-source security projects.
 
