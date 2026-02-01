@@ -1,8 +1,8 @@
 # 💫 About Me
 
-👋 Hey, I’m **Kavan Soni** (aka **NitroGod**)
+👋 Hi — I’m **Kavan Soni** (aka **NitroGod**), a Cyber Security & Digital Forensics student and active CTF player.
 
-🛡️ Cyber Security and Digital Forensics student | CTF player  
+🛡️ Focus: Offensive security, web application penetration testing, and bug bounty research.
 
 🛠️ **I’m currently working on**  
 Offensive Security, Bug Bounty hunting, and Web Application Penetration Testing through hands-on labs.
@@ -42,5 +42,3 @@ Become a skilled Security Researcher and Bug Bounty Hunter.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
-
-
