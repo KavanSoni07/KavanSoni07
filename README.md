@@ -40,9 +40,4 @@ Become a skilled Security Researcher and Bug Bounty Hunter.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavanSoni07&theme=github_dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KavanSoni07&theme=github_dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavanSoni07&theme=github_dark&layout=compact)
