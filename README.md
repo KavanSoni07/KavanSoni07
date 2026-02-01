@@ -14,13 +14,17 @@ Real-world attack techniques on Hack The Box & TryHackMe, with a focus on unders
 - Documenting Hack The Box and TryHackMe learnings
 - Focusing on methodology, enumeration, and lessons learned
 
-🔗 My Profiles
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="28" /> [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)
-- <img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
+## 🔗  My Profiles
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="18" /> [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)
+
+<img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="18" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
 
 
-🚀 **Goal**  
+## 🚀 **Goal**  
 Become a skilled Security Researcher and Bug Bounty Hunter.
+
+---
 
 > _“In the world of cyber warfare, the best defense is a good offense.”_
 
