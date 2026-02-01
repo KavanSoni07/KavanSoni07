@@ -2,27 +2,31 @@
 
 👋 Hi — I’m **Kavan Soni** (aka **NitroGod**), a Cyber Security & Digital Forensics student and active CTF player.
 
-🛡️ Focus: Offensive security, web application penetration testing, and bug bounty research.
+🛡️ **I’m currently interested in**  
+Offensive Security and Bug Bounty Hunting.
 
 🛠️ **I’m currently working on**  
-Offensive Security, Bug Bounty hunting, and Web Application Penetration Testing through hands-on labs.
+Penetration Testing, Red Teaming, and Web Application Security.
 
 🌱 **I’m currently learning**  
 Real-world attack techniques on Hack The Box & TryHackMe, with a focus on understanding vulnerabilities and attack surfaces.
 
-## 📝 Write-ups & Notes
-- Documenting Hack The Box and TryHackMe learnings
-- Focusing on methodology, enumeration, and lessons learned
+📌 **Current focus**  
+Strengthening fundamentals in web application security and privilege escalation through consistent lab practice.
 
-## 🔗  My Profiles
+🚀 **Goal**  
+Working towards becoming a skilled Security Researcher and Bug Bounty Hunter.
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="18" /> [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)
+🛠️ **Tools I use**  
+A range of offensive security tools for enumeration, exploitation, and post-exploitation, including Nmap, ffuf, Gobuster, Feroxbuster, Metasploit, LinPEAS, WinPEAS, and the Impacket toolkit.
 
-<img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="18" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
+🤝 **Open to collaboration**  
+CTFs, learning groups, and open-source security projects.
+
+🚀 **Goal**  
+Working towards becoming a skilled Security Researcher and Bug Bounty Hunter.
 
 
-## 🚀 **Goal**  
-Become a skilled Security Researcher and Bug Bounty Hunter.
 
 ---
 
@@ -42,3 +46,10 @@ Become a skilled Security Researcher and Bug Bounty Hunter.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+
+----
+## 🔗  My Profiles
+
+[![**TryHackMe**](https://img.shields.io/badge/TryHackMe-1f2937?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KavanSoni)
+[![**Hack The Box**](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2002278)
+
