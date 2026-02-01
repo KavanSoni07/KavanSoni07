@@ -16,7 +16,7 @@ Real-world attack techniques on Hack The Box & TryHackMe, with a focus on unders
 
 🔗 My Profiles
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="16" /> [TryHackMe Profile](https://tryhackme.com/p/KavanSoni)
-- <img src="https://www.streamlinehq.com/icons/download/hackthebox--31088" width="16" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
+- <img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="16" /> [Hack The Box Profile](https://app.hackthebox.com/public/users/2002278)
 
 
 🚀 **Goal**  
