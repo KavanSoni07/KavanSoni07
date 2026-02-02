@@ -60,31 +60,31 @@ Working towards becoming a skilled Security Researcher and Bug Bounty Hunter.
 
 <p align="center">
   <a href="https://academy.hackthebox.com/achievement/badge/826beb6d-5a44-11f0-bcfd-bea50ffe6cb4">
-    <img src="https://academy.hackthebox.com/storage/badges/d557d56029e2604c7739e12b597a3b43/logo.png" width="190" title="Web Penetration Tester">
+    <img src="https://academy.hackthebox.com/storage/badges/d557d56029e2604c7739e12b597a3b43/logo.png" width="140" title="Web Penetration Tester">
   </a>
   <a href="https://academy.hackthebox.com/achievement/badge/3a965d44-dc0f-11f0-9254-bea50ffe6cb4">
-    <img src="https://academy.hackthebox.com/storage/badges/the-protector-of-security.png" width="190" title="Penetration Tester">
+    <img src="https://academy.hackthebox.com/storage/badges/the-protector-of-security.png" width="140" title="Penetration Tester">
   </a>
   <a href="https://academy.hackthebox.com/achievement/badge/282361af-b63e-11f0-9254-bea50ffe6cb4">
-    <img src="https://academy.hackthebox.com/storage/badges/stand-above-all.png" width="190" title="Local Privilege Escalation">
+    <img src="https://academy.hackthebox.com/storage/badges/stand-above-all.png" width="140" title="Local Privilege Escalation">
   </a>
   <a href="https://academy.hackthebox.com/achievement/badge/3f6fc8af-a6bc-11f0-9254-bea50ffe6cb4">
-    <img src="https://academy.hackthebox.com/storage/badges/attack-from-the-outside.png" width="190" title="Attacking Common Applications">
+    <img src="https://academy.hackthebox.com/storage/badges/attack-from-the-outside.png" width="140" title="Attacking Common Applications">
   </a>
 </p>
 
 <p align="center">
   <a href="https://tryhackme.com/KavanSoni/badges/500-day-streak">
-    <img src="https://assets.tryhackme.com/img/badges/streak500.png" width="190" title="500 Day Streak">
+    <img src="https://assets.tryhackme.com/img/badges/streak500.png" width="140" title="500 Day Streak">
   </a>
   <a href="https://tryhackme.com/KavanSoni/badges/advent-of-cyber-2025-side-quest">
-    <img src="https://assets.tryhackme.com/img/badges/advent-of-cyber-2025-side-quest.png" width="190" title="Advent of Cyber 2025 Side Quest">
+    <img src="https://assets.tryhackme.com/img/badges/advent-of-cyber-2025-side-quest.png" width="140" title="Advent of Cyber 2025 Side Quest">
   </a>
   <a href="https://tryhackme.com/KavanSoni/badges/windcorp">
-    <img src="https://assets.tryhackme.com/img/badges/windcorp_badge.png" width="190" title="WindCorp">
+    <img src="https://assets.tryhackme.com/img/badges/windcorp_badge.png" width="140" title="WindCorp">
   </a>
   <a href="https://tryhackme.com/KavanSoni/badges/koth-game">
-    <img src="https://assets.tryhackme.com/img/badges/king.png" width="190" title="King">
+    <img src="https://assets.tryhackme.com/img/badges/king.png" width="140" title="King">
   </a>
 </p>
 
